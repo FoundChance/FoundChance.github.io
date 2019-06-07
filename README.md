@@ -5,12 +5,12 @@
 
 # Local Addresses:
 
-Washington DC
+Washington DC area
 ------------------------------------------------
-1436 Chapin St NW, Washington DC, 20009
+6701 Queens Chapel Road, University Park, MD 20782
 
 
-Reading, PA Area
+Reading, PA area
 ------------------------------------------------
 219 Laurelwood Drive, Douglassville, PA 19518
 
