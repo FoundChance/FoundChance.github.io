@@ -1,5 +1,3 @@
-# Chance the pup
-
 # Phone Numbers:
    - Jeff: +1 (609) 529-8276
    - Kelly: +1 (484) 644-1209
