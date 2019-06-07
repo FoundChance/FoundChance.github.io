@@ -1,9 +1,9 @@
-# Phone Numbers:
+## Phone Numbers:
    - Jeff: +1 (609) 529-8276
    - Kelly: +1 (484) 644-1209
 
 
-# Local Addresses:
+## Local Addresses:
 
 Washington DC area
 ------------------------------------------------
